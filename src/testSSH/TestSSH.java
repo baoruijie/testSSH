@@ -6,6 +6,7 @@ public class TestSSH {
 		System.out.println("Hello-Git");
 		System.out.println("Hello-git - commit");
 		System.out.println("hi,更新了");
+		System.out.println("hi 冲突了.");
 	}
 
 }
